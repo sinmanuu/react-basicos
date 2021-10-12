@@ -72,6 +72,7 @@ function App() {
           <Referencias /> */}
           <hr />
           <Formularios />
+          <Formularios />
         </section>
       </header>
     </div>
